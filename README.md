@@ -22,10 +22,6 @@ For administrators, the following actions are available:
 
 We welcome contributions to enhance the functionality and features of the LBC Suppliers & Services website. Feel free to fork the repository, make your improvements, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Thank you for exploring the LBC Suppliers & Services website repository. We hope you find the website user-friendly and the project enjoyable to work with. If you have any questions or suggestions, please feel free to open an issue or reach out to us!
