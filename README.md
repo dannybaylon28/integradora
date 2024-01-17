@@ -10,24 +10,6 @@ Welcome to the repository for the LBC Suppliers & Services website! This project
 - **Admin Section:** Exclusive access for administrators to manage quotations and the product catalog.
 - **Quotation Archive:** A storage system to keep track of all received and responded quotations for transparent and efficient record-keeping.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/lbc-suppliers-website.git
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   cd lbc-suppliers-website
-   npm install
-   ```
-
-3. Customize the website according to your needs.
-
-4. Deploy the website and enjoy the seamless experience!
 
 ## Administration
 
